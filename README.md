@@ -15,5 +15,10 @@
       * A próxima entrega possívelmente não terá as melhorias citadas pelo orientador (eu), pois o aluno não conseguiu fazer.
   
   * Reunião 23/09/2022 às 09:00
-    * O aluno não compareceu na reunião. Na entrega feita no Canvas não tem as melhorias que conversamos nas reuniões anteriores; 
-    * O GitHub do aluno continua desatualizado;
+    * Na entrega feita no Canvas não tem todas as melhorias que conversamos nas reuniões anteriores, mas já houve melhorias significativas; 
+    * O aluno irá trabalhar nas melhorias que conversamos no dia 09/09;
+    * O GitHub do aluno continua desatualizado: O aluno irá atualizar o Github;
+    * O aluno irá trabalhar na contextualização do dataset; 
+    * O aluno irá corrigir erros de pontuação no texto; 
+    * Irá trabalhar em parágrafo que apresenta as diferenças do trabalho dele em relação ao relacionados.
+    
