@@ -13,3 +13,7 @@
     * Reunião  para o aluno apresentar as melhorias e atualizações do artigo.
       * O aluno não conseguiu  trabalhar no artigo. Para a próxima reunião ele irá apresentar as melhorias (do dia 09/09/2022). 
       * A próxima entrega possívelmente não terá as melhorias citadas pelo orientador (eu), pois o aluno não conseguiu fazer.
+  
+  * Reunião 23/09/2022 às 09:00
+    * O aluno não compareceu na reunião. Na entrega feita no Canvas não tem as melhorias que conversamos nas reuniões anteriores; 
+    * O GitHub do aluno continua desatualizado;
