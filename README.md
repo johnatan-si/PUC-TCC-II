@@ -22,3 +22,9 @@
     * O aluno irá corrigir erros de pontuação no texto; 
     * Irá trabalhar em parágrafo que apresenta as diferenças do trabalho dele em relação ao relacionados.
     
+  * Reunião 30/09/2022 às 15:00
+    * Atualizar o GitHub com as alterações que o aluno fez durante o TCC 2; 
+    * O GitHub precisa ter os algoritmos utilizados e dados levantados para conduzir o estudo; 
+    * O GitHub precisa ter o link para o Overleaf;
+    * A reunião acabou às 15:12, porque o aluno teve que resolver problemas do serviço. A nossa reunião será reagendada para a próxima semana. 
+    
