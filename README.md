@@ -27,4 +27,8 @@
     * O GitHub precisa ter os algoritmos utilizados e dados levantados para conduzir o estudo; 
     * O GitHub precisa ter o link para o Overleaf;
     * A reunião acabou às 15:12, porque o aluno teve que resolver problemas do serviço. A nossa reunião será reagendada para a próxima semana. 
-    
+   
+ * Reunião 07/10/2022 às 09:00
+  * As questões deverão ser alteradas, porque não pode ser binária, ou seja, as questões são podem ser respondidas com apenas sim ou não. Exemplo de questão não binária: RQ1: Como  um code smell do tipo god class pode afetar a manutenabilidade do código fonte ? 
+  *  Apresentar o dataset 
+  *  Teremos um discursão no artigo sobre a técnica utilizada por cada ferramenta, porque precisamos descobrir o pq da correlação alta em alguns casos, por exemplo,  jspirit god class e pmd god class 
